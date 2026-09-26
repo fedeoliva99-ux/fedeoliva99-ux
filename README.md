@@ -1,8 +1,8 @@
 <h1 align="center">Federico Oliva · Junior Full-Stack Developer</h1>
  
 <p align="center">
-<img src="https://flagcdn.com/20x15/it.png" width="20" alt="IT"> Sviluppo web con Laravel · Frontend responsive · In crescita su React e Python<br>
-<img src="https://flagcdn.com/20x15/gb.png" width="20" alt="EN"> Web development with Laravel · Responsive frontend · Growing in React and Python
+<img src="https://flagcdn.com/20x15/it.png" width="20" alt="IT"> Sviluppo web con Laravel · Frontend responsive · In crescita su Python<br>
+<img src="https://flagcdn.com/20x15/gb.png" width="20" alt="EN"> Web development with Laravel · Responsive frontend · Growing in Python
 </p>
 
 ---
@@ -40,8 +40,5 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
  
 ---
- 
-<img src="https://flagcdn.com/20x15/it.png" width="20" alt="IT"> Cerco la mia prima opportunità come sviluppatore web, junior o stage.<br>
-<img src="https://flagcdn.com/20x15/gb.png" width="20" alt="EN"> Looking for my first role as a web developer — junior position or internship.
  
 📫 [LinkedIn](www.linkedin.com/in/federico-oliva-313402238) · [Email](federicoliva@ikmail.com)
