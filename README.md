@@ -39,4 +39,4 @@
  
 ---
  
-📫 [LinkedIn](www.linkedin.com/in/federico-oliva-313402238) · [Email](federicoliva@ikmail.com)
+· [Email](federicoliva@ikmail.com)
